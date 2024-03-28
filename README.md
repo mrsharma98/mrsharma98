@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mrsharma98@gmail.com**
 
-- 📄 Know about my experiences [See here.](https://drive.google.com/file/d/1AgoB_uMTITMPIPvb4RhzIXL4hCHiUruO/view?usp=drive_link)
+- 📄 Know about my experiences [See here.](https://drive.google.com/file/d/1F7CNjCvGgkawDtSxOXv1BFzuWxxhJIAt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +44,11 @@
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">API Query Language:</h3>
+<p>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/zdI5E8moxhs-/graphql" alt="graphql" width="40" height="40"/> </a>
 </p>
 
 <h3>Other Tools:</h3>
